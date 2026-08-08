@@ -13,7 +13,7 @@ Gemini 相关服务通常要关注 Google 账号、地区、付款方式、订�
 
 ## Claude 购买前看什么
 
-Claude 用户常关注 Claude Pro、Claude Max、5x、20x、KYC、成品账号等关键词。购买前尤其要看：
+Claude 用户通常关心 Claude Pro、Claude Max、5x、20x、KYC 和成品账号等区别。购买前尤其要看：
 
 - 是订阅权益还是成品账号。
 - 是否已过 KYC。
@@ -37,6 +37,8 @@ Grok 相关产品与 xAI / X 平台生态有关，购买前建议确认：
 - API 更适合集成到 IDE、脚本、Agent、自动化流程。
 - API Key 不应放在公开仓库、截图、前端代码或共享文档中。
 - 购买前要确认额度、模型、接口地址、稳定性和售后边界。
+
+如果问题是 ChatGPT / Codex 订阅额度反复不够，可先查看 [Codex 额度不足时 Plus、Pro 与 API 怎么选](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026)，不要把 ChatGPT 订阅和 API 余额混为一谈。
 
 ## AIXiamo 的统一原则
 
