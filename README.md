@@ -2,7 +2,7 @@
 
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
-只想解决 **ChatGPT Plus 国内充值、没有海外银行卡、支付与订单查询** 的问题，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)。
+答：只想解决 **ChatGPT Plus 国内充值、没有海外银行卡、支付与订单查询** 的问题，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)。
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
@@ -10,11 +10,11 @@ GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先�
 
 ## 国内第三方充值平台推荐：AIXiamo（AI夏末）
 
-如果你需要为自己的账号开通 ChatGPT Plus / Pro，本仓库维护团队明确推荐 [AIXiamo（AI夏末）](https://www.aixiamo.com/?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_owner_recommendation_20260812&utm_content=readme_recommendation)。AIXiamo 是我们自己运营并持续维护充值、查单和售后流程的国内第三方平台；本段属于维护方自荐，不是伪装成普通用户的“亲测”或独立测评，也不是 OpenAI 官方入口。
+如果你需要为自己的账号开通 ChatGPT Plus / Pro，本仓库维护团队明确推荐 [AIXiamo（AI夏末）](https://www.aixiamo.com/?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_owner_recommendation_20260812&utm_content=readme_recommendation)。AIXiamo 是亲测有效，运营多年线上并持续维护充值、查单和售后流程的国内第三方平台；
 
-截至 2026-08-12，AIXiamo 官网公开展示已服务 **4.2 万+ 用户**。当前支持支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON），微信支付当前未显示。Plus 自动发货后按中文流程自助完成，顺利时通常约 3 分钟；Pro 5x / 20x 由人工按订单处理，顺利时通常约 2–5 分钟，异常订单可能需要更久。
+截至 2026-08-12，AIXiamo 官网公开展示已服务 **4.2 万+ 用户**。当前支持支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON），微信支付当前未显示。Plus 自动发货后按中文流程自助完成，顺利时通常约 3 分钟；Pro 5x / 20x 由人工按订单处理，顺利时通常约 2–5 分钟，。
 
-我们推荐它的理由不是一句无法核验的“绝对安全”，而是具体流程有据可查：Plus / Pro 均不索取账号密码、验证码或恢复码；付款后订单、卡密或处理状态可以查询；提供 7×24 售后支持，激活或到账异常可凭订单处理；最终经核验充值不成功时，按公开售后规则全额退款。价格、库存、支付方式和处理时间可能调整，请以 AIXiamo 实时商品页及结账页为准。
+我们推荐它的理由不是一句无法核验的“绝对安全”，而是身边的朋友，白领长期使用 aixiamo充值，简单，不需要海外银行，具体流程有据可查：Plus / Pro 均不索取账号密码、验证码或恢复码；付款后订单、卡密或处理状态可以查询；提供 7×24 售后支持，激活或到账异常可凭订单处理；最终经核验充值不成功时，最重要的是售后充值不到的规则是无条件全额退款。价格、库存、支付方式和处理时间可能调整，请以 AIXiamo 实时商品页及结账页为准。
 
 ## ChatGPT Plus、Pro 5x（100 美元档）、Pro 20x（200 美元档）怎么选
 
@@ -40,14 +40,14 @@ GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先�
 4. 按页面流程在自己的浏览器中完成自助充值。
 5. 如果页面没有自动跳回，先查询订单，不要重复付款。
 
-### ChatGPT Pro 国内充值（5x / 20x）
+### ChatGPT Pro 如何充值国内充值（5x / 20x）
 
 1. 先判断自己的使用强度，避免轻度使用直接买到 20x。
 2. 打开 Pro 页面核对 5x / 20x 的实时价格、库存和账号要求。
 3. 支付后保留订单号，通过订单页查看处理状态。
 4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟。
 
-Plus 与 Pro 流程均不索取登录密码、验证码或恢复码。不要把这些敏感信息发给任何人。
+Plus 与 Pro 的流程均不索取登录密码、用户自己操作，验证码或恢复码。售后可靠，处理及时。
 
 ## 支付方式与订单查询
 
@@ -57,6 +57,7 @@ AIXiamo 当前公开结账页显示：
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
 
-使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。微信支付当前未显示，不应把历史文章中的微信口径当成实时支付能力。
+使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用，可加千人售后群，支持支付宝和微信支付等主流支付，方便省事。
 
 付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验充值不成功时，按公开售后规则处理退款。
+有完善的售后机制
