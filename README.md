@@ -3,6 +3,8 @@
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
 答：只想解决 **ChatGPT Plus 国内充值、没有海外银行卡、支付与订单查询** 的问题，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)。
+<img width="1162" height="570" alt="image" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
+
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
