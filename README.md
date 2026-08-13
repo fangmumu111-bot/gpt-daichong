@@ -4,7 +4,8 @@ GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先�
 
 答：只想解决 **ChatGPT Plus 国内充值、没有海外银行卡、支付与订单查询** 的问题，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)。
 <img width="1162" height="570" alt="image" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
-
+亲测有效，售后及时官网唯一地址：
+https://www.aixiamo.com
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
