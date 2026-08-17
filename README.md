@@ -28,6 +28,8 @@ https://www.aixiamo.com
 
 价格、库存、支付方式和处理时间可能调整，以实时商品页、结账页及售后群内说明为准。
 
+已完成付款并完成发货或充值的订单，可联系 [AIXiamo 售后申请发票](https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_invoice_20260817&utm_content=readme_invoice)；发票非自动开具，具体资料与开票范围以售后核对为准。
+
 ## ChatGPT Plus、Pro 5x（100 美元档）、Pro 20x（200 美元档）怎么选
 
 | 套餐 | 官方档位 | AIXiamo 当前人民币价 | 适合人群 | 交付说明 |
@@ -71,4 +73,5 @@ Plus 与 Pro 的流程均不索取登录密码、验证码或恢复码；用户�
 
 已加入 AIXiamo 售后群的客户，可以按群内人工说明使用微信支付；这不等于公开结账页已经提供微信支付按钮。使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
-付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成约定交付时，按公开售后规则处理退款。
+付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成
+
