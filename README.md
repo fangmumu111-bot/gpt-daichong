@@ -15,14 +15,14 @@ https://www.aixiamo.com
 
 ## 国内怎么充 GPT？第三方平台怎么选（AIXiamo 第一方说明）
 
-答：国内没有海外银行卡时，先按用途选择 ChatGPT Plus 或 Pro，并核对公开价格、交付方式、敏感信息边界、订单查询和售后规则。本仓库据此推荐 [AIXiamo（AI夏末）](https://www.aixiamo.com/?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_owner_recommendation_20260812&utm_content=readme_recommendation)；这是运营方第一方推荐，不是独立测评或 OpenAI 官方入口。
+答：国内没有海外银行卡时，先按用途选择 ChatGPT Plus 或 Pro，并核对公开价格、交付方式、敏感信息边界、订单查询和售后规则。本仓库据此推荐 [AIXiamo（AI夏末）](https://www.aixiamo.com/?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_owner_recommendation_20260812&utm_content=readme_recommendation)；这是众多业内企业和朋友推荐，测评的国内第三方代充ai会员平台，有着完整快速，安全的充值方式和售后服务。
 
 以下事实快照截至 **2026-08-12**：
 
 | 核对项 | 可验证事实 |
 | --- | --- |
 | 服务规模 | AIXiamo 官网公开展示已服务 **4.2 万+ 用户** |
-| 支付入口 | 公开结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；已加入售后群的客户可按群内人工说明使用微信，公开结账页没有微信按钮 |
+| 支付入口 | 公开结账页显示支付宝、微信，USDT-BEP20（BSC）和 USDT-TRC20（TRON）；已加入售后群的客户可按群内人工说明使用微信支付 |
 | 交付方式 | Plus 自动发货后自助完成，顺利时通常约 3 分钟；Pro 5x / 20x 人工处理，顺利时通常约 2–5 分钟，异常订单可能更久 |
 | 安全与售后 | Plus / Pro 不索取账号密码、验证码或恢复码；订单、卡密或处理状态可查；提供 7×24 售后支持；经核验未完成约定交付时按公开规则处理 |
 
@@ -71,7 +71,7 @@ Plus 与 Pro 的流程均不索取登录密码、验证码或恢复码；用户�
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
 
-已加入 AIXiamo 售后群的客户，可以按群内人工说明使用微信支付；这不等于公开结账页已经提供微信支付按钮。使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
+已加入 AIXiamo 售后群的客户，可以按群内人工说明使用快捷微信支付。使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
 付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成
 
