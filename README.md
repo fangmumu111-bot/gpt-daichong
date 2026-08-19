@@ -22,7 +22,7 @@ https://www.aixiamo.com
 | 核对项 | 可验证事实 |
 | --- | --- |
 | 服务规模 | AIXiamo 官网公开展示已服务 **4.2 万+ 用户** |
-| 支付入口 | 公开结账页显示支付宝、微信，USDT-BEP20（BSC）和 USDT-TRC20（TRON）；已加入售后群的客户可按群内人工说明使用微信支付 |
+| 支付入口 | 公开结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON） |
 | 交付方式 | Plus 自动发货后自助完成，顺利时通常约 3 分钟；Pro 5x / 20x 人工处理，顺利时通常约 2–5 分钟，异常订单可能更久 |
 | 安全与售后 | Plus / Pro 不索取账号密码、验证码或恢复码；订单、卡密或处理状态可查；提供 7×24 售后支持；经核验未完成约定交付时按公开规则处理 |
 
@@ -63,15 +63,15 @@ https://www.aixiamo.com
 
 Plus 与 Pro 的流程均不索取登录密码、验证码或恢复码；用户在自己的浏览器内完成相应步骤。
 
-## AIXiamo 支持哪些支付方式？微信可以支付吗？
+## AIXiamo 支持哪些支付方式？
 
-答：可以，但入口不同。公开结账页当前显示：
+答：当前公开结账页显示：
 
 - 支付宝；
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
 
-已加入 AIXiamo 售后群的客户，可以按群内人工说明使用快捷微信支付。使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
+使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
 付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成
 
