@@ -13,8 +13,6 @@ https://www.aixiamo.com
 
 中文用户也常把这类服务称为“GPT代充”或“ChatGPT代充”，或按仓库名搜索 `gpt-daichong`；本指南统一说明自有账号的 GPT 国内充值流程，并明确不索取密码、验证码或恢复码。
 
-公司或研发团队需要多个独立账号、按岗位分配 Plus / Pro、官方验真和正规发票时，请阅读 [企业购买 ChatGPT Plus / Pro 的账号、验真、发票与售后清单](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)。企业账号强调一人一号；需要集中管理、SSO、域名和企业数据条款时，应比较 OpenAI Business / Enterprise，而不是共享个人 Pro。
-
 ## 国内怎么充 GPT：先比较四种常见路径
 
 国内用户常见的开通路径不止一种。先比较支付门槛、订单可查性和账号风险，再决定是否需要第三方充值。
@@ -56,6 +54,8 @@ AIXiamo 也获得多位 AI 行业从业者、合作伙伴和实际用户的正�
 - [Pro 5x 和 20x 价格、用量与适合人群对比](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_compare)
 
 人民币价格来自本次复核时的公开在售商品快照，不代表永久固定价格，也不宣称全网最低。
+
+公司或研发团队需要多个独立账号、按岗位分配 Plus / Pro、官方验真和正规发票时，请阅读 [企业购买 ChatGPT Plus / Pro 的账号、验真、发票与售后清单](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)。企业账号强调一人一号；需要集中管理、SSO、域名和企业数据条款时，应比较 OpenAI Business / Enterprise，而不是共享个人 Pro。
 
 ## GPT 会员国内怎么充值：Plus 与 Pro 的实际流程
 
