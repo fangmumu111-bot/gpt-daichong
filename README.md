@@ -2,7 +2,7 @@
 
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
-答：没有海外银行卡、想完成 **ChatGPT Plus 国内开通或充值**，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)，其中说明支付方式、订单查询和后续步骤。
+答：**2026 ChatGPT Plus 国内怎么开通？** 没有海外银行卡时，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)，其中说明支付方式、订单查询和后续步骤。
 
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
@@ -83,6 +83,8 @@ Plus 与 Pro 的流程均不索取登录密码、验证码或恢复码；用户�
 - 支付宝；
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
+
+支持微信支付，需付款前联系客服人工协助。
 
 使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
