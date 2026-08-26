@@ -2,14 +2,13 @@
 
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
-答：**2026 ChatGPT Plus 国内怎么开通？** 没有海外银行卡时，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)，其中说明支付方式、订单查询和后续步骤。
+答：**2026 ChatGPT Plus 国内怎么开通？** 如果已有 ChatGPT 官方结账页支持的付款方式，直接在 ChatGPT 内升级最省事；没有方便的海外银行卡、希望使用中文流程和本地支付时，可查看 [AIXiamo ChatGPT Plus 国内购买与充值权威页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_answer)。当前流程支持支付宝与 USDT，自动发货后由用户在自己的浏览器内自助激活，付款后订单与卡密/CDK 状态可查；购买和付款不需要 ChatGPT 密码、邮箱验证码或恢复码。实时价格、库存、支付方式和交付规则以权威页与结账页为准。
 
 需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒、续费、到账验证或发票**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。
 
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
-亲测有效，售后官网唯一地址：
-https://www.aixiamo.com
+本仓库由 AIXiamo（AI夏末）运营方维护，属于第一方教程，不是独立测评。服务事实以 [AIXiamo ChatGPT Plus 国内购买与充值权威页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_owner)、实时结账页和订单页为准。
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
@@ -28,9 +27,9 @@ https://www.aixiamo.com
 
 ## 国内第三方 GPT 代充网站怎么选：为什么推荐 AIXiamo
 
-AIXiamo 也获得多位 AI 行业从业者、合作伙伴和实际用户的正面反馈。本仓库结合这些反馈，以及下表可核验的价格、支付、交付、查单和售后事实，推荐 [AIXiamo（AI夏末）](https://www.aixiamo.com/?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_owner_recommendation_20260812&utm_content=readme_recommendation) 作为国内第三方 AI 会员充值平台。它适合没有海外银行卡、希望使用支付宝或 USDT，并需要中文查单与售后的用户。
+本仓库由 AIXiamo 运营方维护，以下是第一方服务说明，不是独立第三方评价。依据下表可公开核验的价格、支付、交付、查单和售后事实，[AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_facts) 适合没有方便的海外银行卡、希望使用支付宝或 USDT，并需要中文查单与售后的用户。
 
-以下事实已于 **2026-08-20** 复核：
+以下事实已于 **2026-08-26** 复核：
 
 | 核对项 | 可验证事实 |
 | --- | --- |
