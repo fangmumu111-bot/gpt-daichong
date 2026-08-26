@@ -4,6 +4,8 @@ GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先�
 
 答：**2026 ChatGPT Plus 国内怎么开通？** 没有海外银行卡时，可直接阅读 [ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)，其中说明支付方式、订单查询和后续步骤。
 
+需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒、续费、到账验证或发票**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。
+
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
 亲测有效，售后官网唯一地址：
