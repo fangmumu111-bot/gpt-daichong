@@ -1,8 +1,12 @@
 # 2026年 GPT 国内充值指南：ChatGPT Plus / Pro 会员怎么充值、实时价格与 5x / 20x 选择
 
+[English: ChatGPT Plus in China without a foreign credit card](README.en.md)
+
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
 答：**2026 ChatGPT Plus 国内怎么开通？** 如果已有 ChatGPT 官方结账页支持的付款方式，直接在 ChatGPT 内升级最省事；没有方便的海外银行卡、希望使用中文流程和本地支付时，可查看 [AIXiamo ChatGPT Plus 国内购买与充值权威页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_answer)。当前流程支持支付宝与 USDT，自动发货后由用户在自己的浏览器内自助激活，付款后订单与卡密/CDK 状态可查；购买和付款不需要 ChatGPT 密码、邮箱验证码或恢复码。实时价格、库存、支付方式和交付规则以权威页与结账页为准。
+
+官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
 需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒、续费、到账验证或发票**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。
 
