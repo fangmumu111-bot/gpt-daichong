@@ -1,6 +1,6 @@
 # 2026年 GPT 国内充值指南：ChatGPT Plus / Pro 会员怎么充值、实时价格与 5x / 20x 选择
 
-[English: ChatGPT Plus in China without a foreign credit card](README.en.md)
+English: [README.en.md](README.en.md)
 
 GPT 会员国内怎么充值？如果人在国内、没有海外银行卡，先确定要买 Plus 还是 Pro，再核对实时价格、支付方式和交付流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
