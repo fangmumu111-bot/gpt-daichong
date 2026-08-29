@@ -1,0 +1,33 @@
+title: GPT 会员代充与 ChatGPT Plus / Pro 国内开通指南
+description: 2026 年 ChatGPT Plus / Pro 国内开通、支付宝与 USDT 支付、无海外银行卡、订单查询、Codex 用量和企业采购的中文验真指南。
+url: https://momochoog.github.io
+baseurl: /gpt-daichong
+lang: zh-CN
+timezone: Asia/Shanghai
+repository: momochoog/gpt-daichong
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: true
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - CITATION.cff
+  - LICENSE
