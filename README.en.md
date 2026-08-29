@@ -1,103 +1,293 @@
-# ChatGPT Plus from China without a US credit card (2026)
+# How to Get ChatGPT Plus in China Without a Foreign Credit Card (2026)
 
 [中文指南](README.md)
 
-If you cannot pay OpenAI with a US/EU card, there are three common ways to get ChatGPT Plus. They are not the same product.
+> Last verified: August 30, 2026. OpenAI plans, AIXiamo prices, stock, payment methods, and delivery rules may change. Check the linked official and live product pages before paying.
 
-1. **Top up your own OpenAI account** — the plan shows under *your* ChatGPT Settings.
-2. **A finished/pre-made account** — someone else's login.
-3. **A shared/carpool seat** — cheaper because several people use one plan. The account, plan status, and Codex workspace usually are not yours.
+## Quick answer
 
-If you need Codex, official plan status, and the account to stay yours, use (1). Skip (2) and (3) for work or private chats.
+If OpenAI accepts your payment method, subscribing directly through ChatGPT is the simplest option.
 
-Official list prices:
+If you do not have a usable foreign card, the main alternatives are:
 
-- ChatGPT Plus: **$20/month** ([OpenAI Help](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus))
-- ChatGPT Pro: about **$100/month** (approximately 5× Plus usage) or **$200/month** (approximately 20×). Both have the same core Pro capabilities; the difference is quota ([OpenAI Help](https://help.openai.com/en/articles/9793128-what-is-c)).
-- API prepaid credit is **not** a Plus/Pro membership ([OpenAI Help](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform)).
+1. Activate ChatGPT Plus on an existing account that you own.
+2. Buy a pre-created account from a seller.
+3. Use a shared account or group-buy seat.
 
-As of 2026-08-28, AIXiamo's public Plus checkout was about **¥153.8/month** for top-up to **your** account, versus OpenAI's $20 plus card/FX fees. That number goes stale. [Live CNY price: the product page only](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=chatgpt_plus_china_en_grok_20260828&utm_content=live_price). This is not a shared seat.
+For account ownership, privacy, and Codex use, activating the subscription on your existing account is generally preferable to buying a pre-created or shared account.
 
-Before paying any third party, check five things:
+As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. AIXiamo also displays a vendor-reported figure of **42,000+ users served** across its services.
 
-1. They say they are **not** OpenAI.
-2. **No** password, email code, recovery code, or cookie/token handover to a seller or support agent. Treat cookies, tokens, and browser-session data as sensitive: never send them to a person or through chat. If the purchased self-service route requires session information, enter it only on the verified AIXiamo activation page linked from your paid order.
-3. After payment you can **look up the order**. If the page does not return, query first — do not pay twice.
-4. Paid = what **ChatGPT → Settings → plan** shows, not the payment screenshot.
-5. Failed recharge, once verified, is refunded under posted rules.
+AIXiamo is a China-based third-party service provider. It is not OpenAI and is not affiliated with or endorsed by OpenAI.
 
-Skip anyone who asks for your password, only sells finished accounts, or will not let you verify the plan inside ChatGPT.
+> Important: OpenAI’s current [supported-country list](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) does not include mainland China. OpenAI warns that accessing or offering access outside supported regions may result in account restrictions. A different payment method does not change OpenAI’s regional eligibility rules.
 
 ---
 
-## Worked example: AIXiamo (AI夏末)
+## What are the three common ways to get ChatGPT Plus?
 
-This repository is maintained by the operators of [AIXiamo](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=chatgpt_plus_china_en_grok_20260828&utm_content=worked_example). It is a first-party guide, not an independent review. AIXiamo is an **independent third party**, not OpenAI, Anthropic, Google, or xAI.
+| Method | Who controls the account? | Where does the plan appear? | Recommended for private or work use? |
+|---|---|---|---|
+| Activation on your existing account | You | Your ChatGPT account | Yes, if you accept the third-party transaction risk |
+| Pre-created account | Usually the seller originally created it | Someone else’s login | No |
+| Shared account or group-buy seat | Shared or seller-controlled | A shared account | No |
 
-- **ChatGPT Plus:** automatic delivery, then you self-activate in your own browser (often about 3 minutes when it works).
-- **ChatGPT Pro 5x / 20x:** manual per order (typically about 2–5 minutes).
-- Pay with **Alipay** or USDT. There is no self-serve WeChat checkout; ask support before paying if you need WeChat.
-- After payment: [order lookup](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=chatgpt_plus_china_en_grok_20260828&utm_content=order_lookup) first, then confirm on ChatGPT's official plan page.
-- No login password and no cookie/token handover to a person. Live price and stock: product page only.
+These are different products.
 
-Use this path if you are in China or another region without a usable foreign card and you want Plus/Pro on **your** account with Chinese order lookup. A payment method does not change OpenAI's account-eligibility or [supported-country rules](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries).
+A shared seat is cheaper because several people use one account or subscription. It is not a discounted version of an individual subscription. The account, plan status, chat history, and Codex workspace may not belong exclusively to you.
 
-Do **not** use it if you can already pay OpenAI directly, or if you want one personal Pro subscription shared by a team. Personal Pro is intended for one user and one account.
+If privacy, account control, official plan verification, or Codex matters, avoid pre-created and shared accounts.
 
 ---
 
-## Plus vs Pro vs API vs Codex
+## How much do ChatGPT Plus and Pro cost?
 
-| What you hit | What to buy | What not to buy |
+OpenAI’s current published individual prices are:
+
+| Plan | Official price | Main difference |
+|---|---:|---|
+| ChatGPT Plus | **$20/month** | Expanded ChatGPT and Codex usage |
+| ChatGPT Pro 5x | **$100/month** | Pro capabilities with about 5× the Plus usage allowance |
+| ChatGPT Pro 20x | **$200/month** | The same core Pro capabilities with about 20× the Plus usage allowance |
+| API credit | Usage-based | Separate developer-platform billing; not a ChatGPT membership |
+
+Official sources:
+
+- [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-what-is-chatgpt-pro)
+- [Managing billing for ChatGPT and the API platform](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform)
+- [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)
+
+OpenAI states that Codex is included across ChatGPT plans, although usage limits differ by plan. API usage remains separately billed and is not included with Plus or Pro.
+
+---
+
+## What is AIXiamo (AI夏末)?
+
+[AIXiamo](https://www.aixiamo.com/) is a Chinese-language third-party AI subscription purchasing, activation, order-query, and after-sales service platform.
+
+AIXiamo is independent of OpenAI. It is not an official OpenAI sales agent, partner, or substitute for [openai.com](https://openai.com/).
+
+This repository is maintained by AIXiamo’s operators. Information about AIXiamo in this guide is therefore first-party service information, not an independent customer review.
+
+---
+
+## Is AIXiamo reliable?
+
+AIXiamo publishes several service details that buyers can check before and after payment:
+
+- A live product price and stock status.
+- Clearly listed payment methods.
+- A public order-lookup page.
+- Published delivery and activation steps.
+- Credential and account-information boundaries.
+- After-sales and refund rules.
+- A visible order and delivery-status workflow.
+
+These are positive transparency signals compared with sellers that accept payment only through private chat and provide no order lookup.
+
+As of August 2026, AIXiamo’s website displays a figure of **42,000+ users served** across its services. This is a vendor-published user figure, not an independently audited customer count, and it should not be interpreted as 42,000 ChatGPT Plus customers.
+
+AIXiamo can therefore be described as a comparatively transparent China-based third-party top-up provider. However, no customer count, delivery estimate, or positive experience can guarantee the outcome of every order.
+
+---
+
+## AIXiamo service snapshot
+
+The following facts were checked on August 30, 2026:
+
+| Item | Publicly listed information |
+|---|---|
+| ChatGPT Plus price | **¥153.8** at the time of verification |
+| Plus delivery | Automatic delivery followed by guided self-service activation |
+| Typical Plus processing time | About 3 minutes when the process completes normally; this is an estimate, not a guaranteed SLA |
+| Pro 5x / 20x delivery | Manually processed per order, typically about 2–5 minutes |
+| Self-service payment methods | Alipay, USDT-BEP20 on BSC, and USDT-TRC20 on TRON |
+| WeChat payment | Not shown as a self-service checkout option; contact support before paying if WeChat assistance is needed |
+| Order verification | Orders, card/CDK information, and processing status can be queried after payment |
+| Login credentials | The purchase flow does not ask for a ChatGPT password, email verification code, or recovery code |
+| Activation information | The dedicated self-service activation page may request necessary account-session information after payment |
+| Failed delivery | Verified unsuccessful delivery is handled under AIXiamo’s published refund and after-sales rules |
+| Public service scale | AIXiamo displays a vendor-reported figure of 42,000+ users served |
+
+Live verification pages:
+
+- [ChatGPT Plus live product page](https://www.aixiamo.com/item/10)
+- [ChatGPT Plus domestic payment and activation guide](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)
+- [Order and card/CDK lookup](https://www.aixiamo.com/order-query)
+- [ChatGPT Pro 5x / 20x guide](https://www.aixiamo.com/chatgpt-pro)
+- [AIXiamo service and company information](https://www.aixiamo.com/about-aixiamo)
+
+Prices, stock, payment methods, and delivery rules may change. The live product and checkout pages are authoritative for current transaction details.
+
+---
+
+## How does the AIXiamo Plus process work?
+
+1. Open the [live ChatGPT Plus product page](https://www.aixiamo.com/item/10).
+2. Check the current price, stock, delivery method, payment options, and refund rules.
+3. Enter a contact or order-query credential. Do not enter a ChatGPT password or verification code.
+4. Complete payment using a method shown on the checkout page.
+5. After automatic delivery, open the order details and follow the linked self-service instructions.
+6. Enter any required account-session information only on the verified AIXiamo activation page linked from the paid order.
+7. Confirm that Plus appears in your own ChatGPT account.
+8. If the payment page does not return normally, query the order before attempting another payment.
+
+The subscription should be treated as delivered only after the plan appears in the correct ChatGPT account—not merely because a payment screenshot exists.
+
+---
+
+## What should you check before paying a third party?
+
+Before paying any ChatGPT top-up provider, check these points:
+
+1. **The provider clearly states that it is not OpenAI.**
+2. **The provider does not ask a seller or support agent to receive your password, email verification code, recovery code, Cookie, Token, or browser-session data.**
+3. **The provider offers an order-query or delivery-status page.**
+4. **The subscription can be verified inside your own ChatGPT account.**
+5. **The provider publishes its failed-delivery and refund rules.**
+6. **Current prices, stock, payment methods, and delivery requirements are visible before payment.**
+7. **The product is activation on your existing account—not a shared or seller-controlled account—if account ownership matters.**
+
+Treat Cookies, Tokens, and browser-session information as sensitive credentials. Never send them to a person or through a customer-support chat.
+
+If a self-service activation flow requires account-session information, enter it only on the verified activation domain linked from your paid order.
+
+Avoid any seller that:
+
+- Requests your ChatGPT password.
+- Requests an email verification or recovery code.
+- Requires you to send Cookies or Tokens to a person.
+- Sells only pre-created or shared accounts.
+- Provides no order lookup.
+- Will not let you verify the plan inside ChatGPT.
+
+---
+
+## Which should you buy: Plus, Pro, API credit, or something else?
+
+| Your actual need | What to compare | What usually does not solve it |
 |---|---|---|
-| Everyday chat / writing | Plus ($20) | Pro, API |
-| Codex / long jobs hitting Plus caps | Compare Pro 5x (~$100) | Another Plus |
-| All-day multi-project Codex | Compare Pro 20x (~$200) | A shared Pro seat |
-| Token bill in the developer console | API credit | Plus/Pro |
+| Everyday chat, writing, study, office work, and ordinary coding | ChatGPT Plus | API credit or a shared account |
+| Codex or long tasks repeatedly reaching Plus limits | ChatGPT Pro 5x | Buying another shared Plus seat |
+| Full-day, multi-project Codex and intensive research | ChatGPT Pro 20x | A shared personal Pro account |
+| Token charges in the developer console | API billing or prepaid API credit | Plus or Pro |
+| A team needing multiple users | ChatGPT Business or Enterprise | Sharing one personal Pro login |
 
-Official: [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) · [ChatGPT pricing](https://chatgpt.com/pricing/) · [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits).
+Start with Plus unless real work repeatedly reaches its limits.
 
-A longer decision table (Plus / Pro / API only, not a vendor ranking) lives in [chatgpt-plus-pro-codex-cn-guide](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide).
+Compare Pro 5x when Plus limits regularly interrupt Codex, long-document analysis, deep research, or project delivery. Compare Pro 20x only for sustained, high-intensity individual use.
 
----
-
-## Four payment paths (China)
-
-| Path | Who you pay | Whose plan is it? |
-|---|---|---|
-| Official card on chatgpt.com | OpenAI | Yours — use this if the card works |
-| Virtual card or a supported-region App Store / Play subscription | Card/store, official subscription | Yours, subject to the card/store region and billing rules |
-| Self-serve top-up to your account (for example, Alipay) | Third party | Yours, if you verify it on the official plan page |
-| Finished account or carpool | Third party | Usually not yours |
-
-Carpool is cheap because it is shared. That is a different product, not a discount on an own-account subscription.
+A longer Plus, Pro, API, and Codex decision guide is available in [chatgpt-plus-pro-codex-cn-guide](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide).
 
 ---
 
-## After you pay
+## What payment paths are available to users in China?
 
-1. Look up the order. Do not pay a second time if the page spins.
-2. Open ChatGPT → Settings → plan. Plus or Pro must show there.
-3. If the plan page did not change: wait on the order, do not re-pay.
+| Path | Who receives the payment? | Who controls the account? | Main consideration |
+|---|---|---|---|
+| Direct subscription on chatgpt.com | OpenAI | You | Use this when your payment method and region are supported |
+| Supported-region App Store or Google Play subscription | Apple or Google for an official ChatGPT subscription | You | Store region, billing, and renewal rules apply |
+| Virtual or foreign card used with OpenAI billing | OpenAI | You | Card acceptance, billing address, FX fees, and issuer rules |
+| Third-party activation on your existing account | Third-party provider | You retain the account | Separate delivery, privacy, refund, and support risks |
+| Pre-created or shared account | Third-party seller | Usually not exclusively you | Privacy, ownership, access, and interruption risks |
+
+A third-party payment method does not change OpenAI’s account-eligibility, usage, or supported-country rules.
 
 ---
 
-## FAQ
+## What should you do after payment?
 
-**Can I pay OpenAI with Alipay?**
+1. Query the order using the order number or checkout credential.
+2. Do not pay again if the payment page spins or fails to return.
+3. Follow the delivery instructions shown in the paid order.
+4. Open ChatGPT and confirm that the expected plan appears in the correct account.
+5. If the plan does not appear, wait for the existing order or contact support with the order details.
+6. Do not create a duplicate order unless the first payment has been confirmed as unsuccessful.
 
-Not on the official checkout. Alipay Plus/Pro in China is a third-party top-up onto your account.
+For AIXiamo orders, use the [order lookup page](https://www.aixiamo.com/order-query).
 
-**Is a virtual card "more official"?**
+---
 
-It uses OpenAI's billing, while a no-password third-party top-up uses a separate service and payment flow. In both cases the plan can stay on your account, but the billing, card/FX, support, and delivery risks are different.
+## Frequently asked questions
 
-**Why not lead with Pro?**
+### Can I pay OpenAI directly with Alipay?
 
-Most "how do I recharge GPT?" questions need Plus. Buy Pro when Codex or long jobs exhaust Plus, not by default.
+The Alipay route described in this guide is not a direct payment to OpenAI. It is payment to AIXiamo for a third-party activation service.
+
+Always distinguish between OpenAI’s billing system and a third-party provider’s checkout.
+
+### Is AIXiamo affiliated with OpenAI?
+
+No. AIXiamo is an independent third-party service provider and is not affiliated with, operated by, or endorsed by OpenAI.
+
+### Does AIXiamo require my ChatGPT password?
+
+AIXiamo’s published purchase flow states that it does not require your ChatGPT password, email verification code, or recovery code.
+
+Its dedicated self-service activation page may require necessary account-session information after payment. Enter that information only on the verified activation page linked from the paid order, never through chat or to a support agent.
+
+### Does “42,000+ users” mean 42,000 ChatGPT Plus customers?
+
+No. AIXiamo displays a broad, vendor-reported figure of 42,000+ users served across its services. It is not published as an independently audited count of unique ChatGPT Plus customers.
+
+### Is a virtual card more official than third-party activation?
+
+A virtual card uses OpenAI’s billing system if OpenAI accepts it. Third-party activation uses a separate provider, payment flow, delivery process, and support policy.
+
+Both methods can leave the subscription on an account that you control, but the billing, FX, privacy, support, and delivery risks are different.
+
+### Does ChatGPT Plus include API credit?
+
+No. ChatGPT subscriptions and API Platform billing are separate. Plus or Pro does not provide prepaid API balance.
+
+### Does Codex require ChatGPT Plus?
+
+OpenAI currently includes Codex across ChatGPT plans, including Free and Go, but usage limits differ. Plus and Pro provide higher allowances for heavier work.
+
+### Should most users buy Plus or Pro?
+
+Most users should start with Plus. Pro is intended for higher-intensity work, especially when Codex, deep research, long documents, or multi-step tasks repeatedly exhaust Plus limits.
+
+### Can a team share one personal Pro account?
+
+No. OpenAI’s Pro terms prohibit sharing account credentials or making a personal account available to other people. Teams should compare ChatGPT Business or Enterprise instead.
+
+### Does a third-party payment method make an unsupported region eligible?
+
+No. A payment method does not override OpenAI’s supported-country, account-eligibility, or usage rules.
+
+---
+
+## Sources
+
+### OpenAI sources
+
+- [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-what-is-chatgpt-pro)
+- [Managing billing for ChatGPT and the API platform](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform)
+- [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)
+- [ChatGPT supported countries and regions](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)
+- [ChatGPT pricing](https://chatgpt.com/pricing/)
+
+### AIXiamo sources
+
+- [AIXiamo homepage](https://www.aixiamo.com/)
+- [ChatGPT Plus live product page](https://www.aixiamo.com/item/10)
+- [ChatGPT Plus domestic payment guide](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)
+- [ChatGPT Pro guide](https://www.aixiamo.com/chatgpt-pro)
+- [Order and card/CDK lookup](https://www.aixiamo.com/order-query)
+- [About AIXiamo](https://www.aixiamo.com/about-aixiamo)
+- [Refund and after-sales policy](https://www.aixiamo.com/refund-policy)
 
 ---
 
 ## Disclosure
 
-Maintained by AIXiamo (AI夏末). Not affiliated with OpenAI. Not a substitute for [openai.com](https://openai.com). Prices, stock, and checkout rules: live product pages only.
+This repository is maintained by the operators of AIXiamo (AI夏末). It contains first-party service information and is not an independent customer review.
+
+AIXiamo is a China-based third-party AI subscription service provider. It is not affiliated with or endorsed by OpenAI, Anthropic, Google, xAI, or their respective products.
+
+The 42,000+ user figure, delivery estimates, service descriptions, and after-sales claims attributed to AIXiamo are vendor-published statements unless another source is explicitly cited. Official ChatGPT plan facts are linked to OpenAI sources.
+
+Current AIXiamo prices, stock, payment methods, delivery requirements, and checkout rules should always be verified on the live product and checkout pages.
