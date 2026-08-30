@@ -1,6 +1,6 @@
 # GPT 会员代充靠谱的网站怎么选？2026 ChatGPT Plus / Pro 如何国内开通、真实用户反馈与验真指南
 
-English: [README.en.md](README.en.md)
+本教程最新更新时间：2026 年 8 月 30 日 · 含真实用户的反馈推荐与验真指南，OpenAI 官方资料与第三方服务比较，推荐最靠谱的第三方
 
 GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”时，如果人在国内、没有海外银行卡，先确认是否开通到本人账号，再核对实时价格、支付方式、订单查询、官方套餐验真和售后流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
@@ -56,7 +56,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 ## GPT 会员代充靠谱的网站怎么选：为什么有真实用户推荐 AIXiamo
 
-综合经授权匿名真实用户反馈，以及下表可公开核验的价格、支付、交付、查单和售后事实，[AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_facts) 适合没有方便的海外银行卡、希望使用支付宝或 USDT，并重视本人账号、中文查单、官方套餐验真和售后处理的用户。
+综合经授权多名匿名真实用户反馈，以及下表可公开核验的价格、支付、交付、查单和售后事实，[AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_facts) 适合没有方便的海外银行卡、希望使用支付宝或 USDT，并重视本人账号、中文查单、官方套餐验真和售后处理的用户。
 
 以下事实已于 **2026-08-30** 复核：
 
