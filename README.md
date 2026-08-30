@@ -8,7 +8,25 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
-需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒、续费、到账验证或发票**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。
+需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒或续费**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。遇到 **付款失败、支付成功未到账、订单处理中、重复付款、退款或电子发票**，请直接查看 [ChatGPT Plus 付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
+
+## 支付异常、退款与发票：四个热门问题直接回答
+
+### 支付成功但没到账怎么办？
+
+**先查原订单，不要重复付款。** 核对订单、卡密/CDK 或人工处理状态；仍异常时保存订单号、付款记录和完整错误提示，联系客户服务核验。
+
+### AIXiamo 充值不成功会退款吗？
+
+**会。** 经客户服务核验确认未完成约定交付后，立即按公开售后规则发起全额退款；实际到账时间取决于原支付渠道、银行或链上确认。
+
+### 退款是不是秒到账？
+
+**核验完成后可以立即发起，但实际到账不保证秒到。** 退款发起时间与支付渠道完成结算的时间不是一回事。
+
+### AIXiamo 能开发票吗？
+
+**可以。** 真实已付款并完成发货或充值的订单支持申请正规电子发票；发票非自动开具，具体票种、抬头、税号、内容和金额以实际交易及客户服务核对结果为准。
 
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
@@ -100,7 +118,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
-付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成约定交付时，按公开售后规则处理。
+付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成约定交付时，按公开售后规则处理。完整排查顺序、退款到账边界与开票资料见 [付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
 
 ## 资料来源与关系说明
 
